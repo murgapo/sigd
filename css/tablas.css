@@ -1,0 +1,59 @@
+.tabla-body{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'rale';    
+}
+
+.tabla-estructura{
+    width: 90%;    
+    margin: auto;
+    border-collapse: collapse;     
+}
+
+.tabla-estructura th{
+    background-color: #333;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.tabla-estructura td{
+    padding: 4px;
+}
+
+.tabla-estructura tr:nth-child(even){
+    background-color: #dddddd;
+}
+
+.nombre{
+    text-align: left;
+}
+
+.numero{
+    width: 5%;
+    text-align: center;
+}
+
+.codigo{
+    width: 15%;
+    text-align: center;
+}
+
+.edicion{
+    width: 10%;
+    text-align: center;
+}
+
+.formato{
+    width: 10%;
+    text-align: center;
+}
+
+.descarga{
+    width: 10%;
+    text-align: center;
+}
+
+.nombre-catalogo{
+    margin-top: 100px;
+}

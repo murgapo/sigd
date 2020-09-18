@@ -1,0 +1,28 @@
+#particles-js{
+    background: url(../img/documents.jpg);
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+    /* margin-bottom: 40px; */
+}
+.ancho_letras{
+    top: 240px;
+    position: absolute;
+    width: 50%;
+    text-align: center;
+    z-index: 1;
+}
+.letras_slider{
+    width: 90%;
+    margin: auto;
+}
+.letras_slider h1{
+    color:#fff;
+    font-family: 'rale';
+}
+.letras_slider p{
+    color: #fff;
+    font-family: 'rale';
+    font-size: 25px;
+    padding-top: 5px;
+}
