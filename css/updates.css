@@ -93,11 +93,11 @@
 }
 
 #llenar-tarjeta1{
-    height: 74px;
+    height: 71px;
 }
 
 #llenar-tarjeta2{
-    height: 9px;
+    height: 3px;
 }
 
 #llenar-tarjeta3 {
@@ -114,6 +114,10 @@
 
 #rellenar-sexta{
     height: 26px;
+}
+
+#llenar-tarjeta6y8{
+    height: 68px;
 }
 
 .descripcion ul{
