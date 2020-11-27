@@ -92,32 +92,22 @@
     height: 42px;
 }
 
-#llenar-tarjeta1{
-    height: 70px;
+/* LLENADO DE TARJETAS PARA AJUSTAR EL ALTO */
+
+#llenado1{
+    height: 96px;
 }
 
-#llenar-tarjeta2{
+#llenado2{
     height: 3px;
 }
 
-#llenar-tarjeta3 {
-    height: 7px;
+#llenado3{
+    height: 71px;
 }
 
-#llenar-tarjeta4 {
-    height: 99px;
-}
-
-#llenar-tarjeta5 {
-    height: 49px;
-}
-
-#rellenar-sexta{
-    height: 26px;
-}
-
-#llenar-tarjeta6y8{
-    height: 68px;
+#llenado4{
+    height: 6px;
 }
 
 .descripcion ul{
